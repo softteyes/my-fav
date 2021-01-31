@@ -1,0 +1,53 @@
+#div1 {
+    text-align: center;
+    color: antiquewhite;
+    font-size: 17px;
+}
+
+.p {
+    text-align: center;
+    color: antiquewhite;
+    font-size: 16px;
+    font-family: serif;
+}
+
+body {
+    background-color: saddlebrown;
+    text-align: center;
+}
+
+#head {
+    color: antiquewhite;
+    text-align: center;
+}
+
+#img1 {
+    border-width: 3px;
+    border-color: antiquewhite;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: saddlebrown;
+}
+
+#toph {
+    color: antiquewhite;
+}
+
+h1 {
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+
+#inspiration img {
+    width: 400px;
+    margin: 10px;
+    transition: transform .2s;
+}
+
+#inspiration img:hover {
+    transform: scale(0.9);
+}
+
+.heading {
+    color: antiquewhite
+}
